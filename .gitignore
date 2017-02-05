@@ -7,3 +7,5 @@ sysroot
 buildroot-*
 flatpak
 gen
+drive.img*
+flash_dev.img
