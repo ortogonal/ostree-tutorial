@@ -1,0 +1,9 @@
+meta-boot2qt
+ostree-src
+qtotaupdate
+repo*
+sota-tools
+sysroot
+buildroot-*
+flatpak
+gen
